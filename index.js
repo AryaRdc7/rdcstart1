@@ -15,9 +15,9 @@ const info = require("./lib/info.js");
 const BotName = 'ARYA RDC BOT 👑'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/aryardc_'; // Nama Instagramlu cok
 const whatsapplu = '0857-7259-3242'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
+const kapanbotaktif = 'Kalo Ceklis 2 Aktif'; // Kapan bot lu aktif
+const grupch1 = ''; // OFFICIAL GRUP LU 1
+const grupch2 = ''; // OFFICIAL GRUP LU 2
 //
 const
 {
